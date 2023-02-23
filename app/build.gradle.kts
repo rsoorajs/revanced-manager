@@ -102,7 +102,7 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview:$composeVersion")
     implementation("androidx.navigation:navigation-compose:2.5.0")
     implementation("androidx.appcompat:appcompat:1.4.2")
-    implementation("androidx.core:core-splashscreen:1.0.0-rc01")
+    implementation("androidx.core:core-splashscreen:1.1.0-alpha01")
 
     // ReVanced
     implementation("app.revanced:revanced-patcher:2.5.2")
